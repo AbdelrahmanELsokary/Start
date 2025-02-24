@@ -4,8 +4,8 @@ export function Header() {
   const [openMenu, setOpenMenu] = useState(false);
   return (
     <>
-      <header className=" sticky top-0 bg-[#74c69d] text-white py-5">
-        <div className="container flex justify-between items-center w-[90%] m-auto">
+      <header className=" sticky top-0 bg-[#74c69d] text-white   py-5">
+        <div className="container flex justify-between items-center w-[78%] m-auto">
           <div className="logo">
             <Link to="/" className="flex items-center text-4xl">
               <img className=" w-12 mr-2" src="/assets/icons/logo.webp" alt="logo" />
