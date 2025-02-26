@@ -33,7 +33,7 @@ export function Header() {
                 </Link>
               </li>
               <li className="py-2">
-                <Link className=" text-[18px] font-semibold" to="/">
+                <Link className=" text-[18px] font-semibold" to="/Contact">
                   Contact
                 </Link>
               </li>
