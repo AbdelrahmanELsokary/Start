@@ -28,7 +28,7 @@ export function Header() {
                 </Link>
               </li>
               <li className=" md:border-none border-solid border-b py-2">
-                <Link className=" text-[18px] font-semibold" to="/">
+                <Link className=" text-[18px] font-semibold" to="/Services">
                   Services
                 </Link>
               </li>

@@ -9,6 +9,7 @@ import { BrowserRouter, Route, Routes } from 'react-router';
 // import { About } from './components/pages/home/About_Our.jsx';
 import { Footer } from './components/layout/Footer.jsx';
 import { Portfolio } from './components/pages/Portfolio.jsx';
+import { Services } from './components/pages/services/Services.jsx';
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
@@ -19,6 +20,7 @@ createRoot(document.getElementById('root')).render(
       <Routes>
         <Route path="/Portfolio" element={<Portfolio />} />
         <Route path="/App" element={<App />} />
+        <Route path="/Services" element={<Services />} />
       </Routes>
       <Footer />
     </BrowserRouter>
