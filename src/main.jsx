@@ -19,10 +19,10 @@ createRoot(document.getElementById('root')).render(
       <Partners />
       <About /> */}
       <Routes>
+        <Route path="/" element={<App />} />
         <Route path="/Portfolio" element={<Portfolio />} />
-        <Route path="/App" element={<App />} />
         <Route path="/Services" element={<Services />} />
-        <Route path="/Services" element={<Contact />} />
+        <Route path="/Contact" element={<Contact />} />
       </Routes>
       <Footer />
     </BrowserRouter>

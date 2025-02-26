@@ -3,7 +3,7 @@ export function Services() {
   return (
     <>
       <section>
-        <div className="container text-center pt-14">
+        <div className="container text-center pt-14 mx-auto ">
           <div className="col_1">
             <span className=" text-[#74c69d] text-[19px] font-bold">PLANS</span>
             <h2 className=" text-[#212529] text-4xl font-bold my-4 ">Our Services</h2>

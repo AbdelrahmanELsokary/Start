@@ -4,7 +4,7 @@ export function Portfolio() {
   return (
     <>
       <section>
-        <div className="container text-center pt-14">
+        <div className="container text-center pt-14 m-auto">
           <span className=" text-[#74c69d] text-[19px] font-bold">WORK</span>
           <h2 className=" text-[#212529] text-4xl font-bold my-4 ">Portfolio</h2>
           <p className=" text-[#212529] text-2xl">
