@@ -7,7 +7,7 @@ export function Header() {
       <header className=" sticky top-0 bg-[#74c69d] text-white py-5">
         <div className="container flex justify-between items-center w-[80%] mx-auto">
           <div className="logo">
-            <Link to="/" className="flex items-center text-4xl">
+            <Link to="/App" className="flex items-center text-4xl">
               <img className=" w-12 mr-2" src="/assets/icons/logo.webp" alt="logo" />
               start
             </Link>
