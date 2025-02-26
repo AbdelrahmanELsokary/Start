@@ -1,10 +1,10 @@
-import { Button } from './Button';
+import { Button } from '../Button';
 
 export function Hero() {
   return (
     <>
-      <section className="bg-[#74c69d] h-[89vh] ">
-        <div className="container flex justify-center items-center gap-14 pt-24">
+      <section className="bg-[#74c69d]">
+        <div className="container flex items-center justify-center flex-wrap h-[90vh] pt-4 px-12 m-auto">
           <div className="col_1">
             <span className="text-white font-mono font-semibold ">WELCOME</span>
             <h1 className="text-white font-bold text-4xl pt-2">
@@ -15,7 +15,7 @@ export function Hero() {
               Lorem ipsum <br />
               dolor sit amet consectetur, adipisicing elit. Dolorem, optio?
             </p>
-            <Button />
+            <Button className="Explore" />
           </div>
           <div className="col_2">
             <img src="/public/assets/images/hero.webp" alt="hero image" />
