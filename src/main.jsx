@@ -7,11 +7,13 @@ import { BrowserRouter, Routes } from 'react-router';
 // import { Hero } from './components/pages/home/Hero.jsx';
 // import { Partners } from './components/pages/home/prand.jsx';
 // import { About } from './components/pages/home/About_Our.jsx';
+import { Footer } from './components/layout/Footer.jsx';
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
       <Header />
       <App />
+      <Footer />
       {/* <Hero />
       <Partners />
       <About /> */}

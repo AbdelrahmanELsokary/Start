@@ -3,7 +3,7 @@ export function Team() {
   return (
     <>
       <section>
-        <div className="container text-center p-5 pt-20">
+        <div className="container text-center w-[80%] mx-auto p-5 pt-20 ">
           <div className="row_1">
             <span className=" text-[#74c69d] text-[19px] font-bold">PARTNERS</span>
             <h2 className=" text-[#212529] text-2xl font-bold my-4 ">Lorem Ipsum Dolor</h2>
