@@ -13,8 +13,8 @@ export function About() {
             <p className=" text-slate-500">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. <br /> Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error <br /> ipsum, voluptate culpa nesciunt delectus iste?
             </p>
-            <Button style=" bg-[#333] block  bg-[#212529] text-white py-2 px-10 " className="Learn More" />
           </div>
+          <Button style=" block bg-[#212529] text-white py-2 px-10 " Class="Learn More" />
         </div>
       </section>
       <section className="row_1">
@@ -24,7 +24,7 @@ export function About() {
             <p className=" text-slate-500">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. <br /> Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error <br /> ipsum, voluptate culpa nesciunt delectus iste?
             </p>
-            <Button style=" bg-[#333] block  bg-[#212529] text-white py-2 px-10 " className="Learn More" />
+            <Button style="bg-[#333] block  bg-[#212529] text-white py-2 px-10 " Class="Learn More" />
           </div>
           <div className="col_2">
             <img src="/assets/images/man-analyze.webp" alt="communication image" />

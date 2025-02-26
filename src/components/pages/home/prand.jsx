@@ -19,7 +19,7 @@ export function Partners() {
             <img src="/public/assets/images/facebook.webp" alt="facebook image" />
             <img src="/public/assets/images/spotify.webp" alt="spotify image" />
           </div>
-          <Button style=" bg-[#333] block mx-auto bg-[#212529] text-white py-2 px-10 " className="Learn More" />
+          <Button style="block mx-auto bg-[#212529] text-white py-2 px-10" Class="Learn More" />
         </div>
       </section>
     </>

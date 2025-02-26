@@ -1,5 +1,3 @@
-import { Button } from '../Button';
-
 export function Hero() {
   return (
     <>
@@ -15,7 +13,7 @@ export function Hero() {
               Lorem ipsum <br />
               dolor sit amet consectetur, adipisicing elit. Dolorem, optio?
             </p>
-            <Button className="Explore" />
+            <button className="block bg-white py-[5px] px-10 rounded-md mt-5">Explore</button>
           </div>
           <div className="col_2">
             <img src="/public/assets/images/hero.webp" alt="hero image" />
