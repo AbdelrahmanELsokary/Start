@@ -18,12 +18,12 @@ export function Header() {
             </button>
             <ul className={`${openMenu ? 'absolute right-0 top-16 w-[200px] rounded-xl bg-[#498a6a] p-4' : 'hidden'} md:flex gap-9 items-center`}>
               <li className=" md:border-none border-solid border-b py-2">
-                <Link className=" text-[18px] font-semibold" to="/">
+                <Link className=" text-[18px] font-semibold" to="/App">
                   Home
                 </Link>
               </li>
               <li className=" md:border-none border-solid border-b py-2">
-                <Link className=" text-[18px] font-semibold" to="/">
+                <Link className=" text-[18px] font-semibold" to="/Portfolio">
                   Portfolio
                 </Link>
               </li>
