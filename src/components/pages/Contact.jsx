@@ -11,6 +11,11 @@ export function Contact() {
   function userLogin(event) {
     event.preventDefault();
     console.log(formInputs);
+    setFormInputs({
+      name: '',
+      email: '',
+      message: '',
+    });
   }
   return (
     <>
@@ -32,6 +37,7 @@ export function Contact() {
                 <input
                   type="text"
                   id="name"
+                  value={formInputs.name}
                   autoFocus
                   required
                   className=" block outline-none border-solid border-2 border-gray-300 rounded-md p-1 min-w-full "
@@ -42,6 +48,7 @@ export function Contact() {
                 </label>
                 <input
                   type="email"
+                  value={formInputs.email}
                   id="email"
                   required
                   className=" block outline-none border-solid border-2 border-gray-300 rounded-md p-1 min-w-full"
@@ -51,6 +58,7 @@ export function Contact() {
                   Message
                 </label>
                 <textarea
+                  value={formInputs.message}
                   id="message"
                   className=" block resize-none outline-none border-solid border-2 border-gray-300 rounded-md min-w-full h-20"
                   onChange={(e) => setFormInputs({ ...formInputs, message: e.target.value })}
