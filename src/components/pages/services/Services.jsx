@@ -52,23 +52,23 @@ export function Services() {
                 Lorem ipsum, dolor sit amet <br /> consectetur adipisicing elit. Suscipit <br /> nemo hic quos, ab, dolor aperiam
               </p>
               <p className=" flex items-center justify-center gap-2 text-xl font-semibold pt-8 ">
-                <img src="/public/assets/icons/true.webp" alt="true icon" />
+                <img src="/assets/icons/true.webp" alt="true icon" />
                 lorem ipsum, dolor sit
               </p>
               <p className=" flex items-center justify-center gap-2 text-xl font-semibold p-2 ">
-                <img src="/public/assets/icons/true.webp" alt="true icon" />
+                <img src="/assets/icons/true.webp" alt="true icon" />
                 lorem ipsum, dolor sit
               </p>
               <p className=" flex items-center justify-center gap-2 text-xl font-semibold ">
-                <img src="/public/assets/icons/true.webp" alt="true icon" />
+                <img src="/assets/icons/true.webp" alt="true icon" />
                 lorem ipsum, dolor sit
               </p>
               <p className=" flex items-center justify-center gap-2 text-xl font-semibold pt-2 ">
-                <img src="/public/assets/icons/true.webp" alt="true icon" />
+                <img src="/assets/icons/true.webp" alt="true icon" />
                 lorem ipsum, dolor sit
               </p>
               <p className=" flex items-center justify-center gap-2 text-xl font-semibold pt-2 ">
-                <img src="/public/assets/icons/true.webp" alt="true icon" />
+                <img src="/assets/icons/true.webp" alt="true icon" />
                 lorem ipsum, dolor sit
               </p>
               <Button style="bg-[#333] block  bg-[#212529] text-white py-2 px-10 mx-auto mt-7 " Class="Learn More" />

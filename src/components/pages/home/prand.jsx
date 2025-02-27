@@ -13,11 +13,11 @@ export function Partners() {
             adipisicing elit.
           </p>
           <div className="images flex gap-14 justify-center items-center flex-wrap my-10 ">
-            <img src="/public/assets/images/google.webp" alt="google image" />
-            <img src="/public/assets/images/microsoft.webp" alt="microsoft image" />
-            <img src="/public/assets/images/airbnb.webp" alt="airbnb image" />
-            <img src="/public/assets/images/facebook.webp" alt="facebook image" />
-            <img src="/public/assets/images/spotify.webp" alt="spotify image" />
+            <img src="/assets/images/google.webp" alt="google image" />
+            <img src="/assets/images/microsoft.webp" alt="microsoft image" />
+            <img src="/assets/images/airbnb.webp" alt="airbnb image" />
+            <img src="/assets/images/facebook.webp" alt="facebook image" />
+            <img src="/assets/images/spotify.webp" alt="spotify image" />
           </div>
           <Button style="block mx-auto bg-[#212529] text-white py-2 px-10" Class="Learn More" />
         </div>

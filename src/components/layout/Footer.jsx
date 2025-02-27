@@ -7,37 +7,37 @@ export function Footer() {
           <ul className="flex flex-wrap justify-center gap-5">
             <li>
               <Link>
-                <img src="/public/assets/icons/facebook.webp" alt="facebook" />
+                <img src="/assets/icons/facebook.webp" alt="facebook" />
               </Link>
             </li>
             <li>
               <Link>
-                <img src="/public/assets/icons/instagram.webp" alt="instagram" />
+                <img src="/assets/icons/instagram.webp" alt="instagram" />
               </Link>
             </li>
             <li>
               <Link>
-                <img src="/public/assets/icons/twitter.webp" alt="twitter" />
+                <img src="/assets/icons/twitter.webp" alt="twitter" />
               </Link>
             </li>
             <li>
               <Link>
-                <img src="/public/assets/icons/pinterest.webp" alt="pinterest" />
+                <img src="/assets/icons/pinterest.webp" alt="pinterest" />
               </Link>
             </li>
             <li>
               <Link>
-                <img src="/public/assets/icons/tiktok.webp" alt="tiktok" />
+                <img src="/assets/icons/tiktok.webp" alt="tiktok" />
               </Link>
             </li>
             <li>
               <Link>
-                <img src="/public/assets/icons/whatsapp.webp" alt="whatsapp" />
+                <img src="/assets/icons/whatsapp.webp" alt="whatsapp" />
               </Link>
             </li>
             <li>
               <Link>
-                <img src="/public/assets/icons/youtube.webp" alt="youtube" />
+                <img src="/assets/icons/youtube.webp" alt="youtube" />
               </Link>
             </li>
           </ul>

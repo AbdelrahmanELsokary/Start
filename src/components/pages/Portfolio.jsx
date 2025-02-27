@@ -12,14 +12,14 @@ export function Portfolio() {
             <br /> adipisicing elit.
           </p>
           <div className="images flex flex-wrap justify-center gap-6 p-9">
-            <img src="/public/assets/images/work-1.webp" alt="work-1" />
-            <img src="/public/assets/images/work-2.webp" alt="work-2" />
-            <img src="/public/assets/images/work-3.webp" alt="work-3" />
-            <img src="/public/assets/images/work-4.webp" alt="work-4" />
-            <img src="/public/assets/images/work-5.webp" alt="work-5" />
-            <img src="/public/assets/images/work-6.webp" alt="work-6" />
-            <img src="/public/assets/images/work-7.webp" alt="work-7" />
-            <img src="/public/assets/images/work-8.webp" alt="work-8" />
+            <img src="/assets/images/work-1.webp" alt="work-1" />
+            <img src="/assets/images/work-2.webp" alt="work-2" />
+            <img src="/assets/images/work-3.webp" alt="work-3" />
+            <img src="/assets/images/work-4.webp" alt="work-4" />
+            <img src="/assets/images/work-5.webp" alt="work-5" />
+            <img src="/assets/images/work-6.webp" alt="work-6" />
+            <img src="/assets/images/work-7.webp" alt="work-7" />
+            <img src="/assets/images/work-8.webp" alt="work-8" />
           </div>
           <Button style="bg-[#333] block  bg-[#212529] text-white py-2 px-10 mx-auto " Class="Learn More" />
         </div>

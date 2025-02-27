@@ -16,7 +16,7 @@ export function Hero() {
             <button className="block bg-white py-[5px] px-10 rounded-md mt-5">Explore</button>
           </div>
           <div className="col_2">
-            <img src="/public/assets/images/hero.webp" alt="hero image" />
+            <img src="/assets/images/hero.webp" alt="hero image" />
           </div>
         </div>
       </section>
